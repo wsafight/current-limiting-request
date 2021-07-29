@@ -52,6 +52,9 @@
       "limit": "10 KB"
     }
   ],
+  "dependencies": {
+    "rxjs": "^7.3.0"
+  },
   "devDependencies": {
     "@size-limit/preset-small-lib": "^5.0.1",
     "husky": "^7.0.1",
